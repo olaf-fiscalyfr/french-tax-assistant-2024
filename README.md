@@ -163,4 +163,4 @@ An intelligent assistant to automatically extract tax data from client documents
 
 The application supports all standard French tax codes across the following forms:
 
-- **Form 2042**: Salaries,
+- **Form 2042**: Salaries,# french-tax-assistant-2024
